@@ -1,0 +1,15 @@
+F:\UnityStuffs\Projects\C#\01Conceitos\bin\Debug\net6.0\01Conceitos.exe
+F:\UnityStuffs\Projects\C#\01Conceitos\bin\Debug\net6.0\01Conceitos.deps.json
+F:\UnityStuffs\Projects\C#\01Conceitos\bin\Debug\net6.0\01Conceitos.runtimeconfig.json
+F:\UnityStuffs\Projects\C#\01Conceitos\bin\Debug\net6.0\01Conceitos.dll
+F:\UnityStuffs\Projects\C#\01Conceitos\bin\Debug\net6.0\ref\01Conceitos.dll
+F:\UnityStuffs\Projects\C#\01Conceitos\bin\Debug\net6.0\01Conceitos.pdb
+F:\UnityStuffs\Projects\C#\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.AssemblyReference.cache
+F:\UnityStuffs\Projects\C#\01Conceitos\obj\Debug\net6.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnityStuffs\Projects\C#\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfoInputs.cache
+F:\UnityStuffs\Projects\C#\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfo.cs
+F:\UnityStuffs\Projects\C#\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.CoreCompileInputs.cache
+F:\UnityStuffs\Projects\C#\01Conceitos\obj\Debug\net6.0\01Conceitos.dll
+F:\UnityStuffs\Projects\C#\01Conceitos\obj\Debug\net6.0\ref\01Conceitos.dll
+F:\UnityStuffs\Projects\C#\01Conceitos\obj\Debug\net6.0\01Conceitos.pdb
+F:\UnityStuffs\Projects\C#\01Conceitos\obj\Debug\net6.0\01Conceitos.genruntimeconfig.cache
