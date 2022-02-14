@@ -1,9 +1,11 @@
 //classe? //Molde //Generico
+//Classe é tipo uma forma universal, posso estar falando merda mas acho que
+//vou usar classe pra tudo, tudo é classe, de uma certa forma, vamos lá.
 class Pessoa
 {
     //Atributos //Caracteristicas
     //public = Qualquer arquivo pode acessar
-    //private = Apenas esse arquivo ou apenas essa classe?
+    //private = Apenas dentro da classe
     public string? nome;
     public int idade;
 
