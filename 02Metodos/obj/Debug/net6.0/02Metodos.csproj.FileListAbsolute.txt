@@ -1,0 +1,15 @@
+F:\UnityStuffs\Projects\C#\02Metodos\obj\Debug\net6.0\02Metodos.csproj.AssemblyReference.cache
+F:\UnityStuffs\Projects\C#\02Metodos\obj\Debug\net6.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnityStuffs\Projects\C#\02Metodos\obj\Debug\net6.0\02Metodos.AssemblyInfoInputs.cache
+F:\UnityStuffs\Projects\C#\02Metodos\obj\Debug\net6.0\02Metodos.AssemblyInfo.cs
+F:\UnityStuffs\Projects\C#\02Metodos\obj\Debug\net6.0\02Metodos.csproj.CoreCompileInputs.cache
+F:\UnityStuffs\Projects\C#\02Metodos\bin\Debug\net6.0\02Metodos.exe
+F:\UnityStuffs\Projects\C#\02Metodos\bin\Debug\net6.0\02Metodos.deps.json
+F:\UnityStuffs\Projects\C#\02Metodos\bin\Debug\net6.0\02Metodos.runtimeconfig.json
+F:\UnityStuffs\Projects\C#\02Metodos\bin\Debug\net6.0\02Metodos.dll
+F:\UnityStuffs\Projects\C#\02Metodos\bin\Debug\net6.0\ref\02Metodos.dll
+F:\UnityStuffs\Projects\C#\02Metodos\bin\Debug\net6.0\02Metodos.pdb
+F:\UnityStuffs\Projects\C#\02Metodos\obj\Debug\net6.0\02Metodos.dll
+F:\UnityStuffs\Projects\C#\02Metodos\obj\Debug\net6.0\ref\02Metodos.dll
+F:\UnityStuffs\Projects\C#\02Metodos\obj\Debug\net6.0\02Metodos.pdb
+F:\UnityStuffs\Projects\C#\02Metodos\obj\Debug\net6.0\02Metodos.genruntimeconfig.cache
