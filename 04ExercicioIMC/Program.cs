@@ -6,7 +6,7 @@
         {
             Pessoa p = new Pessoa();
             p.altura = 1.85;
-            p.peso = 86;
+            p.peso = 85;
             p.mensagem();
         }
     }

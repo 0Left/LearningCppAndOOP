@@ -1,18 +1,16 @@
 class Pessoa
 {
     //Atributos
-    public double peso;
-    public double altura;
+    public double peso,altura;
 
     //Metodo
-    public double CalculoIMC()
+    public double calculoIMC()
     {
         return peso / (altura * altura);
     }
-    public void mensagem()
+    public string situation(Double BodyIMC)
     {
-        Double BodyIMC = CalculoIMC();
-        String toReturn;
+        string toReturn;
         if (BodyIMC < 18.5)
         {
             toReturn = "Abaixo do peso";
@@ -36,8 +34,11 @@ class Pessoa
         else {
             toReturn = "Obesidade III";
         }
-        Console.WriteLine("Seu IMC atual é: " + BodyIMC + " você se encontra na faixa: " + toReturn);
-        return;
+        return toReturn;
     }
-
+    public void mensagem(){
+        double BodyIMC = calculoIMC();
+        string situacao = situation(BodyIMC);
+        Console.WriteLine("Seu IMC atual é: " + BodyIMC + " você se encontra na faixa: " + situacao);
+    }
 }
