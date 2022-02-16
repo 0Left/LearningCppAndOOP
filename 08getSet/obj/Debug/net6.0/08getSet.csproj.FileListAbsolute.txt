@@ -1,0 +1,15 @@
+F:\UnityStuffs\Projects\C#\08getSet\bin\Debug\net6.0\08getSet.exe
+F:\UnityStuffs\Projects\C#\08getSet\bin\Debug\net6.0\08getSet.deps.json
+F:\UnityStuffs\Projects\C#\08getSet\bin\Debug\net6.0\08getSet.runtimeconfig.json
+F:\UnityStuffs\Projects\C#\08getSet\bin\Debug\net6.0\08getSet.dll
+F:\UnityStuffs\Projects\C#\08getSet\bin\Debug\net6.0\ref\08getSet.dll
+F:\UnityStuffs\Projects\C#\08getSet\bin\Debug\net6.0\08getSet.pdb
+F:\UnityStuffs\Projects\C#\08getSet\obj\Debug\net6.0\08getSet.csproj.AssemblyReference.cache
+F:\UnityStuffs\Projects\C#\08getSet\obj\Debug\net6.0\08getSet.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnityStuffs\Projects\C#\08getSet\obj\Debug\net6.0\08getSet.AssemblyInfoInputs.cache
+F:\UnityStuffs\Projects\C#\08getSet\obj\Debug\net6.0\08getSet.AssemblyInfo.cs
+F:\UnityStuffs\Projects\C#\08getSet\obj\Debug\net6.0\08getSet.csproj.CoreCompileInputs.cache
+F:\UnityStuffs\Projects\C#\08getSet\obj\Debug\net6.0\08getSet.dll
+F:\UnityStuffs\Projects\C#\08getSet\obj\Debug\net6.0\ref\08getSet.dll
+F:\UnityStuffs\Projects\C#\08getSet\obj\Debug\net6.0\08getSet.pdb
+F:\UnityStuffs\Projects\C#\08getSet\obj\Debug\net6.0\08getSet.genruntimeconfig.cache
