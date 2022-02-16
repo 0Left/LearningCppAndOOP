@@ -1,0 +1,15 @@
+F:\UnityStuffs\Projects\C#\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.exe
+F:\UnityStuffs\Projects\C#\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.deps.json
+F:\UnityStuffs\Projects\C#\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.runtimeconfig.json
+F:\UnityStuffs\Projects\C#\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.dll
+F:\UnityStuffs\Projects\C#\06Encapsulamento\bin\Debug\net6.0\ref\06Encapsulamento.dll
+F:\UnityStuffs\Projects\C#\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.pdb
+F:\UnityStuffs\Projects\C#\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.csproj.AssemblyReference.cache
+F:\UnityStuffs\Projects\C#\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnityStuffs\Projects\C#\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.AssemblyInfoInputs.cache
+F:\UnityStuffs\Projects\C#\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.AssemblyInfo.cs
+F:\UnityStuffs\Projects\C#\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+F:\UnityStuffs\Projects\C#\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.dll
+F:\UnityStuffs\Projects\C#\06Encapsulamento\obj\Debug\net6.0\ref\06Encapsulamento.dll
+F:\UnityStuffs\Projects\C#\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.pdb
+F:\UnityStuffs\Projects\C#\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.genruntimeconfig.cache
