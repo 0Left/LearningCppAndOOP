@@ -1,0 +1,15 @@
+F:\UnityStuffs\Projects\C#\09This\bin\Debug\net6.0\09This.exe
+F:\UnityStuffs\Projects\C#\09This\bin\Debug\net6.0\09This.deps.json
+F:\UnityStuffs\Projects\C#\09This\bin\Debug\net6.0\09This.runtimeconfig.json
+F:\UnityStuffs\Projects\C#\09This\bin\Debug\net6.0\09This.dll
+F:\UnityStuffs\Projects\C#\09This\bin\Debug\net6.0\ref\09This.dll
+F:\UnityStuffs\Projects\C#\09This\bin\Debug\net6.0\09This.pdb
+F:\UnityStuffs\Projects\C#\09This\obj\Debug\net6.0\09This.csproj.AssemblyReference.cache
+F:\UnityStuffs\Projects\C#\09This\obj\Debug\net6.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnityStuffs\Projects\C#\09This\obj\Debug\net6.0\09This.AssemblyInfoInputs.cache
+F:\UnityStuffs\Projects\C#\09This\obj\Debug\net6.0\09This.AssemblyInfo.cs
+F:\UnityStuffs\Projects\C#\09This\obj\Debug\net6.0\09This.csproj.CoreCompileInputs.cache
+F:\UnityStuffs\Projects\C#\09This\obj\Debug\net6.0\09This.dll
+F:\UnityStuffs\Projects\C#\09This\obj\Debug\net6.0\ref\09This.dll
+F:\UnityStuffs\Projects\C#\09This\obj\Debug\net6.0\09This.pdb
+F:\UnityStuffs\Projects\C#\09This\obj\Debug\net6.0\09This.genruntimeconfig.cache
