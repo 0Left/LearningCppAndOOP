@@ -1,0 +1,15 @@
+F:\UnityStuffs\Projects\C#\14Interface\bin\Debug\net6.0\14Interface.exe
+F:\UnityStuffs\Projects\C#\14Interface\bin\Debug\net6.0\14Interface.deps.json
+F:\UnityStuffs\Projects\C#\14Interface\bin\Debug\net6.0\14Interface.runtimeconfig.json
+F:\UnityStuffs\Projects\C#\14Interface\bin\Debug\net6.0\14Interface.dll
+F:\UnityStuffs\Projects\C#\14Interface\bin\Debug\net6.0\ref\14Interface.dll
+F:\UnityStuffs\Projects\C#\14Interface\bin\Debug\net6.0\14Interface.pdb
+F:\UnityStuffs\Projects\C#\14Interface\obj\Debug\net6.0\14Interface.csproj.AssemblyReference.cache
+F:\UnityStuffs\Projects\C#\14Interface\obj\Debug\net6.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnityStuffs\Projects\C#\14Interface\obj\Debug\net6.0\14Interface.AssemblyInfoInputs.cache
+F:\UnityStuffs\Projects\C#\14Interface\obj\Debug\net6.0\14Interface.AssemblyInfo.cs
+F:\UnityStuffs\Projects\C#\14Interface\obj\Debug\net6.0\14Interface.csproj.CoreCompileInputs.cache
+F:\UnityStuffs\Projects\C#\14Interface\obj\Debug\net6.0\14Interface.dll
+F:\UnityStuffs\Projects\C#\14Interface\obj\Debug\net6.0\ref\14Interface.dll
+F:\UnityStuffs\Projects\C#\14Interface\obj\Debug\net6.0\14Interface.pdb
+F:\UnityStuffs\Projects\C#\14Interface\obj\Debug\net6.0\14Interface.genruntimeconfig.cache
