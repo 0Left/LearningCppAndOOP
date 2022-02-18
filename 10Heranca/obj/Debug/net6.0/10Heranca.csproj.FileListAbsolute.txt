@@ -1,0 +1,15 @@
+F:\UnityStuffs\Projects\C#\10Heranca\bin\Debug\net6.0\10Heranca.exe
+F:\UnityStuffs\Projects\C#\10Heranca\bin\Debug\net6.0\10Heranca.deps.json
+F:\UnityStuffs\Projects\C#\10Heranca\bin\Debug\net6.0\10Heranca.runtimeconfig.json
+F:\UnityStuffs\Projects\C#\10Heranca\bin\Debug\net6.0\10Heranca.dll
+F:\UnityStuffs\Projects\C#\10Heranca\bin\Debug\net6.0\ref\10Heranca.dll
+F:\UnityStuffs\Projects\C#\10Heranca\bin\Debug\net6.0\10Heranca.pdb
+F:\UnityStuffs\Projects\C#\10Heranca\obj\Debug\net6.0\10Heranca.csproj.AssemblyReference.cache
+F:\UnityStuffs\Projects\C#\10Heranca\obj\Debug\net6.0\10Heranca.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnityStuffs\Projects\C#\10Heranca\obj\Debug\net6.0\10Heranca.AssemblyInfoInputs.cache
+F:\UnityStuffs\Projects\C#\10Heranca\obj\Debug\net6.0\10Heranca.AssemblyInfo.cs
+F:\UnityStuffs\Projects\C#\10Heranca\obj\Debug\net6.0\10Heranca.csproj.CoreCompileInputs.cache
+F:\UnityStuffs\Projects\C#\10Heranca\obj\Debug\net6.0\10Heranca.dll
+F:\UnityStuffs\Projects\C#\10Heranca\obj\Debug\net6.0\ref\10Heranca.dll
+F:\UnityStuffs\Projects\C#\10Heranca\obj\Debug\net6.0\10Heranca.pdb
+F:\UnityStuffs\Projects\C#\10Heranca\obj\Debug\net6.0\10Heranca.genruntimeconfig.cache
