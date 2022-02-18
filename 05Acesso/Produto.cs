@@ -9,6 +9,6 @@ class Produto
         default -> JAVA
     */
 
-    public string nome;
+    public string? nome;
     private double valor;
 }

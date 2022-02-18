@@ -1,0 +1,15 @@
+F:\UnityStuffs\Projects\C#\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.exe
+F:\UnityStuffs\Projects\C#\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.deps.json
+F:\UnityStuffs\Projects\C#\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.runtimeconfig.json
+F:\UnityStuffs\Projects\C#\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.dll
+F:\UnityStuffs\Projects\C#\11Polimorfismo\bin\Debug\net6.0\ref\11Polimorfismo.dll
+F:\UnityStuffs\Projects\C#\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.pdb
+F:\UnityStuffs\Projects\C#\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.csproj.AssemblyReference.cache
+F:\UnityStuffs\Projects\C#\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnityStuffs\Projects\C#\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.AssemblyInfoInputs.cache
+F:\UnityStuffs\Projects\C#\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.AssemblyInfo.cs
+F:\UnityStuffs\Projects\C#\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.csproj.CoreCompileInputs.cache
+F:\UnityStuffs\Projects\C#\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.dll
+F:\UnityStuffs\Projects\C#\11Polimorfismo\obj\Debug\net6.0\ref\11Polimorfismo.dll
+F:\UnityStuffs\Projects\C#\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.pdb
+F:\UnityStuffs\Projects\C#\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.genruntimeconfig.cache
