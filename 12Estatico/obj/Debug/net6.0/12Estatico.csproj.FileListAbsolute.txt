@@ -1,0 +1,15 @@
+F:\UnityStuffs\Projects\C#\12Estatico\bin\Debug\net6.0\12Estatico.exe
+F:\UnityStuffs\Projects\C#\12Estatico\bin\Debug\net6.0\12Estatico.deps.json
+F:\UnityStuffs\Projects\C#\12Estatico\bin\Debug\net6.0\12Estatico.runtimeconfig.json
+F:\UnityStuffs\Projects\C#\12Estatico\bin\Debug\net6.0\12Estatico.dll
+F:\UnityStuffs\Projects\C#\12Estatico\bin\Debug\net6.0\ref\12Estatico.dll
+F:\UnityStuffs\Projects\C#\12Estatico\bin\Debug\net6.0\12Estatico.pdb
+F:\UnityStuffs\Projects\C#\12Estatico\obj\Debug\net6.0\12Estatico.csproj.AssemblyReference.cache
+F:\UnityStuffs\Projects\C#\12Estatico\obj\Debug\net6.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+F:\UnityStuffs\Projects\C#\12Estatico\obj\Debug\net6.0\12Estatico.AssemblyInfoInputs.cache
+F:\UnityStuffs\Projects\C#\12Estatico\obj\Debug\net6.0\12Estatico.AssemblyInfo.cs
+F:\UnityStuffs\Projects\C#\12Estatico\obj\Debug\net6.0\12Estatico.csproj.CoreCompileInputs.cache
+F:\UnityStuffs\Projects\C#\12Estatico\obj\Debug\net6.0\12Estatico.dll
+F:\UnityStuffs\Projects\C#\12Estatico\obj\Debug\net6.0\ref\12Estatico.dll
+F:\UnityStuffs\Projects\C#\12Estatico\obj\Debug\net6.0\12Estatico.pdb
+F:\UnityStuffs\Projects\C#\12Estatico\obj\Debug\net6.0\12Estatico.genruntimeconfig.cache
